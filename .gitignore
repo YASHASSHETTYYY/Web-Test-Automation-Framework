@@ -1,0 +1,10 @@
+.pytest_cache/
+__pycache__/
+.venv/
+venv/
+reports/
+.selenium/
+pytest-cache-files-*/
+.sixth/
+.idea/
+.vscode/
